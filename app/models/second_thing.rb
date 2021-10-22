@@ -1,0 +1,2 @@
+class SecondThing < ApplicationRecord
+end
