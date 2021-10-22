@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  second_subscriber: one
+  second_subscriber_type: Second subscriber
+
+two:
+  second_subscriber: two
+  second_subscriber_type: Second subscriber
